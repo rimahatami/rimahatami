@@ -2,9 +2,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rima-hatami" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn - Rima Hatami" height="30" width="30" />
-</a>
-</p>
 
 ![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
@@ -31,8 +28,8 @@
 
 ### 📊 GitHub Stats:
 
-![RIma's GitHub Stats](https://github-readme-stats.vercel.app/api?
-![RIma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimahatami&show_icons=true&theme=radical)
+![Rima's GitHub Stats](https://github-readme-stats.vercel.app/api?
+![Rima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimahatami&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimahatami&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
