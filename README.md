@@ -1,8 +1,12 @@
-# Hi there! i'm Rima <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! I'm Rima <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rima-hatami" target="blank">
+  <a href="https://www.linkedin.com/in/rima-hatami" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="Rima Hatami | LinkedIn" width="30" height="30" />
+  </a>
+</p>
 
+---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👩‍💻 A 2nd-year Computer Science student.
@@ -24,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="55" height="55"/>
 </p>
 
-
-
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats:
@@ -36,8 +38,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rimahatami&theme=dark)](https://git.io/streak-stats)
 
-
 ---
-
-### ✨ Fun Fact:
-> "Learning to write programs stretches your mind, and helps you think better." – Bill Gates
