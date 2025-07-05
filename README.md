@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! im Rima Hatami <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rima-hatami" target="blank">
@@ -9,7 +9,7 @@
 ![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 👩‍💻 I'm **Reema Al-Hattami**, a 2nd-year Computer Science student.
+- 👩‍💻 A 2nd-year Computer Science student.
 - 💡 Passionate about **Data Analysis** and exploring the world of **tech**.
 - 🐍 Currently learning **Python**, with a basic background in **C++**.
 - 🧠 I also have working knowledge of **SQL** and databases.
@@ -31,15 +31,12 @@
 
 ### 📊 GitHub Stats:
 
-![Reema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![RIma's GitHub Stats](https://github-readme-stats.vercel.app/api?
+![RIma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimahatami&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimahatami&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
 ### ✨ Fun Fact:
 > "Learning to write programs stretches your mind, and helps you think better." – Bill Gates
-
----
-
-### 😄 A little humor:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
