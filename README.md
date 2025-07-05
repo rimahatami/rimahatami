@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rima-hatami" target="blank">
 
-![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👩‍💻 A 2nd-year Computer Science student.
