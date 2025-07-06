@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rima Hatami! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# 👋 Hi, I'm Rima! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rima-hatami" target="_blank">
