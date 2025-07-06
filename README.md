@@ -16,7 +16,7 @@
 ---
 
 ### 📘 Currently Learning:
-- 🐍 Python programming for data analysis  
+- 🐍 Python programming 
 - 🧠 Writing efficient SQL queries  
 - 📊 Data handling and visualization with Excel  
 - ⚙️ Working with VS Code & GitHub
@@ -24,7 +24,7 @@
 ---
 
 ### 🛠️ Tech Stack I’m Exploring:
-- 💻 Programming: Python, C++  
+- 💻 Programming: Python
 - 🗄️ Databases: SQL (MySQL, SQLite)  
 - 📊 Tools: Excel, Git, Visual Studio Code
 
