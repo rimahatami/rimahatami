@@ -16,6 +16,7 @@
 - 🚀 Always eager to learn and improve my technical and analytical skills.
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=rimahatami&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠️ Tech Stack I’m Exploring:
 
