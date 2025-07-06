@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rima-hatami" target="_blank">
@@ -9,25 +9,22 @@
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 👩‍💻 A 2nd-year Computer Science student.
-- 💡 Passionate about **Data Analysis** and exploring the world of **tech**.
-- 🐍 Currently learning **Python**, with a basic background in **C++**.
-- 🧠 I also have working knowledge of **SQL** and databases.
+- 👩‍💻 A 2nd-year Computer Science student. 
 - 🚀 Always eager to learn and improve my technical and analytical skills.
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=rimahatami&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+### 📘 Currently Learning:
+- 🐍 Python programming 
+- 🧠 Writing efficient SQL queries
+- 📊 Data handling and visualization with Excel
+- ⚙️ Working with VS Code & GitHub
 
+- 
 ### 🛠️ Tech Stack I’m Exploring:
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="55" height="55"/>
-</p>
+- 💻 Programming: Python
+- 🗄️ Databases: MySQL, SQLite
+- 📊 Tools: Excel, Git
 
 ---
 
