@@ -17,7 +17,8 @@
 
 ### 📘 Currently Learning:
 - 🐍 Python programming 
-- 🧠 Writing efficient SQL queries  
+- 🧠 Writing efficient SQL queries
+- 🎯 I’m especially interested in combining programming with real-world data to solve meaningful problems.
 - 📊 Data handling and visualization with Excel  
 - ⚙️ Working with VS Code & GitHub
 
